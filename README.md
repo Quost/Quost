@@ -6,8 +6,8 @@
 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Quost&theme=synthwave" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quost&layout=compact&card_width=300&theme=synthwave" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Quost&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quost&layout=compact&card_width=300&theme=dark" />
 </div>
 
 ##
