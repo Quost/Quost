@@ -1,13 +1,13 @@
 ## <img height="40" src="https://tenor.com/view/dev-gif-23299500"/>Bem-vind@ ao meu perfil de desenvolvedor! Sou Matheus Quost.
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=matheus.quost&color=00579D)
 [![Linkedin Badge](https://img.shields.io/badge/-matheusquost-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/-/)](https://www.linkedin.com/in/matheusquost/)
-[![Instagram Badge](https://img.shields.io/badge/-@matheus_quost-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/daniggie/)](https://instagram.com/matheus_quost)
+[![Instagram Badge](https://img.shields.io/badge/-@matheus_quost-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/matheus_quost/)](https://instagram.com/matheus_quost)
 [![Gmail Badge](https://img.shields.io/badge/-matheusquost-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:matheusquost@pm.me)](mailto:matheusquost@pm.me)
 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniggie&theme=synthwave" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniggie&layout=compact&card_width=300&theme=synthwave" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Quost&theme=synthwave" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quost&layout=compact&card_width=300&theme=synthwave" />
 </div>
 
 ##
