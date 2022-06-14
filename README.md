@@ -3,7 +3,16 @@
 [![Linkedin Badge](https://img.shields.io/badge/-matheusquost-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/-/)](https://www.linkedin.com/in/matheusquost/)
 [![Instagram Badge](https://img.shields.io/badge/-@matheusquost-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/matheus_quost/)](https://instagram.com/matheus_quost)
 [![Gmail Badge](https://img.shields.io/badge/-matheusquost-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:matheusquost@pm.me)](mailto:matheusquost@pm.me)
+[![starsBadge]][stargazers]
+[![forksBadge]][forks]
+[![issuesBadge]][issues]
+![sizeBadge]
+![codelinesBadge]
+[![codeOfConductBadge]][codeOfConduct]
 
+![uniqueUsersBadge]
+![totalrunsbadge]
+![successratebadge]
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Quost&theme=dark" />
